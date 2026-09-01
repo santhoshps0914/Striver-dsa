@@ -1,4 +1,4 @@
-package advanced.fundamentals;
+package advanced.arrays_fundamentals;
 
 import java.util.Arrays;
 
